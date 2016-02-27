@@ -1,2 +1,1 @@
-# ungleich_intership
-Now i put you on Github
+For.py - Python Casino
